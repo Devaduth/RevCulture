@@ -1,0 +1,181 @@
+<div class="pricing-area-l14 position-relative overflow-hidden z-index-1">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-xl-6 col-lg-7 col-md-10 text-center" data-aos="fade-down" data-aos-duration="800" data-aos-once="true">
+            <div class="section-heading-8">
+              <h2>
+                Simple pricing</h2>
+              <p>Create custom landing
+                pages with Shades that convert more visitors than any website—no coding required.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center" id="table-price-value" data-pricing-dynamic data-value-active="monthly">
+          <div class="col-md-12 text-center">
+            <!-- toggle-btn start -->
+            <div class="toggle-btn d-inline-block  justify-content-center">
+              <a class="btn-toggle btn-toggle-2 active-white d-flex  price-deck-trigger" data-pricing-trigger data-target="#table-price-value" href="javascript:">
+                <span class="round"></span>
+              </a>
+            </div>
+            <!-- toggle-btn end -->
+          </div>
+          <div class="col-md-12 col-sm-8 l-14-pricing-table row no-gutters">
+            <div class="col-lg-3 col-md-6 border p-0">
+              <!-- single-price start -->
+              <div class="single-price bg-default text-center  pt-5 pb-10 mb-lg-0" data-aos="fade-right" data-aos-duration="800" data-aos-once="true">
+                <!-- price-top start -->
+                <div class="price-top justify-content-between mb-2">
+                  <span>Basic</span>
+                </div>
+                <!-- price-top end -->
+                <!-- main-price start -->
+                <div class="main-price pb-8 border-bottom">
+                  <div class="price mt-3 mb-3 position-relative">
+                    <span class="d-inline-block mb-0  dynamic-value">$</span>
+                    <h2 class="d-inline-block mb-0  dynamic-value" data-active="15" data-monthly="19" data-yearly="199"></h2>
+                  </div>
+                  <span class=" dynamic-value" data-active="per month" data-monthly="Per month"
+                                data-yearly="per year"></span>
+                </div>
+                <!-- main-price end -->
+                <!-- price-body start -->
+                <div class="price-body">
+                  <ul class="pricing-list with-check-icon list-unstyled">
+                    <li>
+                      Unlimited Blocks</li>
+                    <li>
+                      5GB Clould Storages</li>
+                    <li>
+                      Custom Domain Names</li>
+                    <li>
+                      <del class="text-gray">Unlimited Emails</del>
+                    </li>
+                  </ul>
+                </div>
+                <div class="price-btn">
+                  <a class="btn focus-reset" href="#">Get started now</a>
+                </div>
+                <!-- price-btn end -->
+              </div>
+              <!-- single-price end -->
+            </div>
+            <div class="col-lg-3 col-md-6 border p-0">
+              <!-- single-price start -->
+              <div class="single-price bg-default popular-pricing popular-pricing-2 text-center position-relative  pt-5 pb-10 mb-lg-0" data-aos="fade-up" data-aos-duration="800" data-aos-once="true">
+                <!-- price-top start -->
+                <div class="price-top justify-content-between mb-2">
+                  <span>Pro</span>
+                </div>
+                <!-- price-top end -->
+                <!-- main-price start -->
+                <div class="main-price pb-8 border-bottom">
+                  <div class="price mt-3 mb-3 position-relative">
+                    <span class="d-inline-block mb-0  dynamic-value">$</span>
+                    <h2 class="d-inline-block mb-0  dynamic-value" data-active="15" data-monthly="29" data-yearly="299"></h2>
+                  </div>
+                  <span class=" dynamic-value" data-active="per month" data-monthly="per month"
+                                data-yearly="per year"></span>
+                </div>
+                <!-- main-price end -->
+                <!-- price-body start -->
+                <div class=" price-body">
+                  <ul class="pricing-list with-check-icon list-unstyled">
+                    <li>
+                      Unlimited Blocks</li>
+                    <li>
+                      5GB Clould Storages</li>
+                    <li>
+                      Custom Domain Names</li>
+                    <li>
+                      Unlimited Emails</li>
+                  </ul>
+                </div>
+                <div class="price-btn price-btn-bro">
+                  <a class="btn" href="#">Get started now</a>
+                </div>
+                <!-- price-btn end -->
+              </div>
+              <!-- single-price end -->
+            </div>
+            <div class="col-lg-3 col-md-6 border p-0">
+              <!-- single-price start -->
+              <div class="single-price bg-default text-center  pt-5 pb-10 mb-lg-0" data-aos="fade-up" data-aos-duration="800" data-aos-once="true">
+                <!-- price-top start -->
+                <div class="price-top justify-content-between mb-2">
+                  <span>Smart</span>
+                </div>
+                <!-- price-top end -->
+                <!-- main-price start -->
+                <div class="main-price pb-8 border-bottom">
+                  <div class="price mt-3 mb-3 position-relative">
+                    <span class="d-inline-block mb-0  dynamic-value">$</span>
+                    <h2 class="d-inline-block mb-0  dynamic-value" data-active="15" data-monthly="49" data-yearly="499"></h2>
+                  </div>
+                  <span class=" dynamic-value" data-active="per month" data-monthly="per month"
+                                data-yearly="per year"></span>
+                </div>
+                <!-- main-price end -->
+                <!-- price-body start -->
+                <div class=" price-body">
+                  <ul class="pricing-list with-check-icon list-unstyled">
+                    <li>
+                      Unlimited Blocks</li>
+                    <li>
+                      5GB Clould Storages</li>
+                    <li>
+                      Custom Domain Names</li>
+                    <li>
+                      Unlimited Emails</li>
+                  </ul>
+                </div>
+                <div class="price-btn">
+                  <a class="btn" href="#">Get started now</a>
+                </div>
+                <!-- price-btn end -->
+              </div>
+              <!-- single-price end -->
+            </div>
+            <div class="col-lg-3 col-md-6 border p-0">
+              <!-- single-price start -->
+              <div class="single-price bg-default  text-center  pt-5 pb-10" data-aos="fade-left" data-aos-duration="800" data-aos-once="true">
+                <!-- price-top start -->
+                <div class="price-top justify-content-between mb-2">
+                  <span
+                                class="font-size-1 letter-spacing-np51 text-dovegray line-height-1p66 font-weight-bold">Exclusive</span>
+                </div>
+                <!-- price-top end -->
+                <!-- main-price start -->
+                <div class="main-price pb-8 border-bottom">
+                  <div class="price mt-3 mb-3 position-relative">
+                    <span class="d-inline-block mb-0  dynamic-value">$</span>
+                    <h2 class="d-inline-block mb-0  dynamic-value" data-active="15" data-monthly="89" data-yearly="999"></h2>
+                  </div>
+                  <span class=" dynamic-value" data-active="per month" data-monthly="per month"
+                                data-yearly="per year"></span>
+                </div>
+                <!-- main-price end -->
+                <!-- price-body start -->
+                <div class="price-body">
+                  <ul class="pricing-list with-check-icon list-unstyled">
+                    <li>
+                      Unlimited Blocks</li>
+                    <li>
+                      5GB Clould Storages</li>
+                    <li>
+                      Custom Domain Names</li>
+                    <li>
+                      Unlimited Emails</li>
+                  </ul>
+                </div>
+                <div class="price-btn">
+                  <a class="btn" href="#">Get started now</a>
+                </div>
+                <!-- price-btn end -->
+              </div>
+              <!-- single-price end -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
